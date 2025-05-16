@@ -10,7 +10,7 @@ Je me suis chargé de la containerization sur ce projet: rédiger les Dockerfile
 
 ## Architecture du projet
 
-![app architecture](https://github.com/CodeSnaker/Compose-ton-vote/blob/main/image.jpg?raw=true)
+![app architecture](https://github.com/CodeSnaker/Compose-ton-vote/blob/main/architecture_schema.jpg?raw=true)
 
 ## Les serveurs web
 
